@@ -15,9 +15,6 @@ First Year Mechanical Engineering and Applied CS Major at George Mason Universit
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sami0076&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sami0076&icon=10&color=9)](https://visitcount.itsvg.in)
 
