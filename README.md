@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-Year Mechanical Engineering & Computer Science (dual-degree) student at Virginia Tech<br>Founder of **Parkeye**, a crowdsourced real-time parking availability app, live on the App Store and expanding across campuses<br>Building **tennis-wiki**, a full-stack tennis stats and match-simulation site<br>
+Second-Year Mechanical Engineering & Computer Science (dual-degree) student at Virginia Tech<br>Founder of **Parkeye**, a crowdsourced real-time parking availability app, live on the App Store and expanding across campuses<br>Building **Deucepoint**, a full-stack tennis stats and match-simulation site<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssaleh07/)
@@ -9,7 +9,7 @@ Second-Year Mechanical Engineering & Computer Science (dual-degree) student at V
 ### 🅿️ [Parkeye](https://parkeye.app)
 Crowdsourced, real-time parking availability app that helps students find open spots on campus. Live on the App Store with an XGBoost occupancy-prediction pipeline, a FastAPI/Supabase/PostGIS backend, and an iOS Swift frontend using CoreLocation for privacy-preserving reporting. Launched at George Mason and now expanding to Virginia Tech and beyond.
 
-### 🎾 tennis-wiki
+### 🎾 Deucepoint
 A tennis statistics and match-simulation website built with Go, React, PostgreSQL, and Redis, providing deep player stats, head-to-head comparisons, and surface-adjusted Elo ratings powering closed-form and Monte Carlo match simulators. Also a hands-on project for learning Go, Docker, and Kubernetes (k3s).
 
 # 💻 Tech Stack:
